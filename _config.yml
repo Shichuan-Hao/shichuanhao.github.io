@@ -26,7 +26,7 @@ description: >- # 用于 SEO meta 和 atom feed
 url: "http://www.byteswalk.com"
 
 github:
-  username: shichuanhao # 改为你的 GitHub 用户名
+  username: Shichuan-Hao # 改为你的 GitHub 用户名
 
 twitter:
   username: twitter_username # 改为你的 Twitter 用户名
@@ -149,7 +149,7 @@ pwa:
 paginate: 10
 
 # 站点的根路径
-baseurl: ""
+baseurl: "/bateswalk"
 
 # ------------ 以下选项不建议修改 ------------------
 
